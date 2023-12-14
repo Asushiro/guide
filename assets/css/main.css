@@ -151,7 +151,7 @@ ul, ol { list-style: none; }
   position: relative;
   margin-left: 10px;
   text-decoration: none;
-  border-bottom: 1px dotted;
+  border-bottom: 1px solid;
   transition: border .3s ease, color .3s ease;
 }
 
